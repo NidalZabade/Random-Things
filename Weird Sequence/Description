@@ -1,0 +1,2 @@
+Take any number If it’s even divide it by 2, else if it’s odd  multiply it by 3 then add 1.
+Repeat the process with the result. You will end up with 4 2 1 sequance.
