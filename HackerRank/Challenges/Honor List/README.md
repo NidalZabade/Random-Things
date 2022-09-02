@@ -46,7 +46,7 @@ print in new line for each test case "Honor list" wihout cotation if rantisi in 
 
 * Sample Output 0
 
-  Honor list
+  Honor list\
   Try next semester
 
 * Explanation 0
